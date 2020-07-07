@@ -1,4 +1,3 @@
-
 function checkName()
 {
 	  var name=document.getElementById("un").value;
